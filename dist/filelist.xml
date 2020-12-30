@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <file name="app.js" size="3730" hash="170823714" offset="28">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/app.js</file>
+    <file name="app.json" size="275" hash="2338074733" offset="3760">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/app.json</file>
+    <file name="modules/hardware.js" size="12282" hash="3193639091" offset="4036">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/modules/hardware.js</file>
+    <file name="pages/backlight/backlight.js" size="2750" hash="4024196723" offset="16320">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/pages/backlight/backlight.js</file>
+    <file name="pages/backlight/backlight.xml" size="1696" hash="3184000177" offset="19072">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/pages/backlight/backlight.xml</file>
+    <file name="images/add.png" size="2938" hash="2968047597" offset="20768">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/add.png</file>
+    <file name="images/app.png" size="1756" hash="1304487197" offset="23708">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/app.png</file>
+    <file name="images/scrollbar_handle_horizontal.9.png" size="314" hash="1583426245" offset="25464">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/scrollbar_handle_horizontal.9.png</file>
+    <file name="images/scrollbar_handle_vertical.9.png" size="314" hash="3242514683" offset="25780">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/scrollbar_handle_vertical.9.png</file>
+    <file name="images/slider_bar.png" size="169" hash="2218474167" offset="26096">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/slider_bar.png</file>
+    <file name="images/slider_nor.png" size="148" hash="3184961837" offset="26268">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/slider_nor.png</file>
+    <file name="images/slider_slider.png" size="1444" hash="753749279" offset="26416">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/slider_slider.png</file>
+    <file name="images/sub.png" size="2967" hash="4129643312" offset="27860">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/images/sub.png</file>
+    <file name="values/strings.bin" size="51" hash="3192282338" offset="30828">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/ART_Badge_backlight/res/values/strings.bin</file>
+    <file name="default" size="576" hash="3700132857" offset="30880">D:/WorkSpace/GitLab/art-badge/firmware/persimmon_ui_builder_project/ART_Badge_backlight/dist/default.bin</file>
+</resources>

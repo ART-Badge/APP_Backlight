@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <GlobalSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" DownloadMode="1" DownloadCmd="udb connect com15 1000000&#xA;udb install dist\app.prc /user/download com.example.backlight" DownloadPackage="true" ProjectName="ART_Badge_backlight" DefaultWinWidth="240" DefaultWinHeight="240" EditorFontSize="27" GUIVersion="V4">
+  </GlobalSetting>
+  <Solution>
+    <ART_Badge_backlight SubType="Project">
+      <UI文件 SubType="UIFile">
+        <pages SubType="Directory">
+          <backlight SubType="PageDirectory">
+            <backlight.js SubType="PageJs" />
+            <backlight.ui SubType="PageUi" />
+          </backlight>
+        </pages>
+      </UI文件>
+      <modules SubType="Modules">
+        <hardware.js SubType="ModulesJs" />
+      </modules>
+      <app.js SubType="AppJs" />
+      <app.json SubType="AppJson" />
+    </ART_Badge_backlight>
+  </Solution>
+</Project>

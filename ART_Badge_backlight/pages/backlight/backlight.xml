@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rtgui version="1.0">
+<class>Page</class>
+<widget class="Page" bindtouch="onPageTouch" name="backlight">
+<property name="enterAnim">AnimMoveLeft, 10, 10</property>
+<property name="exitAnim">AnimMoveRight, 10, 10</property>
+<public>
+<property name="background">255, 255, 255, 255</property>
+</public>
+<widgets>
+<widget name="voice_slider" class="slider" bindchange="valueChanged">
+<public>
+<property name="rect">100, 67, 40, 110</property>
+<property name="background">0, 212, 208, 200</property>
+</public>
+<property name="minValue">0</property>
+<property name="maxValue">100</property>
+<property name="currentValue">0</property>
+<property name="direction">VERTICAL</property>
+<property name="norImg">images/slider_nor.png</property>
+<property name="barImg">images/slider_bar.png</property>
+<property name="sliderImg">images/slider_slider.png</property>
+</widget>
+<widget name="sub_button" class="button" bindtap="onBtn">
+<public>
+<property name="rect">96, 173, 48, 48</property>
+<property name="align">HORIZONTAL | VERTICAL</property>
+<property name="background">0, 255, 255, 255</property>
+<property name="font">/system/fonts/HYQIHEI-55J.TTF, 16</property>
+</public>
+<property name="norImg">images/sub.png</property>
+</widget>
+<widget name="add_button" class="button" bindtap="onBtn">
+<public>
+<property name="rect">96, 19, 48, 48</property>
+<property name="align">HORIZONTAL | VERTICAL</property>
+<property name="background">0, 0, 0, 0</property>
+<property name="font">/system/fonts/HYQIHEI-55J.TTF, 16</property>
+</public>
+<property name="norImg">images/add.png</property>
+</widget>
+</widgets>
+</widget>
+</rtgui>
